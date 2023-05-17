@@ -1,3 +1,5 @@
+//How to update a model and a database using migrations
+//https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
 using Microsoft.EntityFrameworkCore;
 using TodoApi.Models;
 
